@@ -1,4 +1,1 @@
-Minor-Project
-=============
-
-Research Paper
+The result section is not completed yet
